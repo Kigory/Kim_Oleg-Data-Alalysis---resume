@@ -25,7 +25,7 @@
 ### Кейсы:
  - [Калькулятор на python вычисялющий выражения со скобками](calculator.py)
  - [Дипломный проект Исследовательский анализ пользователей Яндекс Афиши, вывод и изучение гипотез ](Afisha_analysis.ipynb)
- - [Дашборд Datalens] (https://datalens.yandex/gr9mw2h4qwrs2?tab=0K&state=11926460140)
+ - [Дашборд Datalens](https://datalens.yandex/gr9mw2h4qwrs2?tab=0K&state=11926460140)
 
 ### Контакты:
 * Email -- kigoryloz@gmail.com
