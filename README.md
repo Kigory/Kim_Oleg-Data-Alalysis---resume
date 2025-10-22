@@ -29,5 +29,5 @@
 
 ### Контакты:
 * Email -- kigoryloz@gmail.com
-* TG -- @Razdrajator
+* TG -- [Олег](https://t.me/razdrajator)
 * Телефон --  +7 981 949 96 70
