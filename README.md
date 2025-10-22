@@ -28,9 +28,9 @@
  - [Дашборд Datalens](https://datalens.yandex/gr9mw2h4qwrs2?tab=0K&state=11926460140)
 
 ### Контакты:
-* Email -- kigoryloz@gmail.com
-* TG -- [Олег](https://t.me/razdrajator)
-* Телефон --  +7 981 949 96 70
+* Email: kigoryloz@gmail.com
+* TG: [Олег](https://t.me/razdrajator)
+* Телефон:  +7 981 949 96 70
 
 ### О себе:
    Постоянно обучаюсь новому.
